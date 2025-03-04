@@ -1,2 +1,1 @@
-# Clase-LinKedlist
 # investigacion
